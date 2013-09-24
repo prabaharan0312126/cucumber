@@ -17,6 +17,7 @@ public class ITdeveopler {
 	public void give(String TesterType)
 	{System.out.println(TesterType);
 		System.out.println(TesterType);
+		System.out.println(TesterType);
 	}
 	
   @When("^I meet ([^\"]*)$")
