@@ -18,6 +18,7 @@ public class ITdeveopler {
 	{System.out.println(TesterType);
 		System.out.println(TesterType);
 		System.out.println(TesterType);
+		System.out.println("Adsafdsafdsaf");
 	}
 	
   @When("^I meet ([^\"]*)$")
